@@ -1,5 +1,3 @@
-# <img src="img/feshar_logo.png" align="left" />
-
 [![Posts - Room](https://img.shields.io/badge/Mohaned%20Zekry-room-red)](https://github.com/MohanedZekry/RoomOverview)
 >
 
