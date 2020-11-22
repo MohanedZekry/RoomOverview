@@ -1,4 +1,4 @@
-[![Posts - Room](https://img.shields.io/badge/Mohaned%20Zekry-room-red)](https://github.com/MohanedZekry/RoomOverview)
+[![Posts - Room](https://img.shields.io/badge/Mohaned%20Zekry-Room-red)](https://github.com/MohanedZekry/RoomOverview)
 >
 
 # Posts - Room
