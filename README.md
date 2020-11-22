@@ -9,7 +9,7 @@ Displays all the words in a RecyclerView in MainActivity.
 
 # Libraries included
 <ul>
- 	<li>RxJava</li>
+ 	<li>RxJava2</li>
 	<li>Model-View-ViewModel</li>
 	<li>Retrofit</li>	
 	<li>Data Binding</li>
